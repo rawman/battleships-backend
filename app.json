@@ -1,0 +1,8 @@
+{
+  "name": "Sample Suave web app",
+  "description": "Sample single-script Suave web app, deployable to Heroku.",
+  "repository": "https://github.com/rawman/battleships-backend",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/SuaveIO/mono-script-buildpack.git"
+  }
+}
